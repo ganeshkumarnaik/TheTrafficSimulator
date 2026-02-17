@@ -1,0 +1,23 @@
+# Build artifacts
+traffic_sim
+*.o
+*.out
+*.exe
+
+# Logs
+*.log
+*.csv
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dependencies
+*.a
+*.so
+*.dylib
